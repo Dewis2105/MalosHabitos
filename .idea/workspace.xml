@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="764ed7c7-a619-41b6-be57-71a759489092" name="Changes" comment="Linea base del proyecto">
-      <change beforePath="$PROJECT_DIR$/MalosHabitos/Ejemploo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MalosHabitos/Ejemploo1.py" afterDir="false" />
+    <list default="true" id="764ed7c7-a619-41b6-be57-71a759489092" name="Changes" comment="modificación ejercicio 01">
+      <change beforePath="$PROJECT_DIR$/MalosHabitos/Ejemploo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MalosHabitos/Ejemploo2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +21,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="refactorizar_ej01" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -39,10 +39,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Ejemploo1.executor": "Run",
+    "Python.Ejemploo2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "Ejemplo02"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,12 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725910406187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modificación ejercicio 01">
+      <option name="closed" value="true" />
+      <created>1725911627396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725911627396</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Linea base del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linea base del proyecto" />
+    <MESSAGE value="modificación ejercicio 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="modificación ejercicio 01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
